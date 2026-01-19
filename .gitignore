@@ -1,0 +1,12 @@
+
+KiCad/GLPMJ_One/GLPMJ_One-backups/
+
+*.3mf
+
+*.mtl
+
+*.obj
+
+KiCad/GLPMJ_One/jlcpcb/
+
+KiCad/GLPMJ_One/fp-info-cache
