@@ -13,3 +13,14 @@
 - PCB only: 25.6mm x 33.6mm x t1.2mm
 
 <img width="1577" height="1494" alt="image" src="https://github.com/user-attachments/assets/ab03e5d8-e906-4dbc-85d7-2457febe156f" />
+
+## License
+The hardware design files in this repository are licensed under the
+**CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)**.
+
+Unless otherwise stated, the following are treated as hardware design files covered by CERN-OHL-P-2.0:
+
+- KiCad schematic files
+- PCB layout files
+
+A copy of the license text is provided in the `LICENSE` file.
