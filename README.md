@@ -22,5 +22,6 @@ Unless otherwise stated, the following are treated as hardware design files cove
 
 - KiCad schematic files
 - PCB layout files
+- Plasticity and STEP 3D model data files
 
 A copy of the license text is provided in the `LICENSE` file.
