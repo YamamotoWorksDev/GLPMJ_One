@@ -1,5 +1,5 @@
 # GLPMJ_One
-This module is a trial module for Gateron Low Profile Magnetic Jade Pro HE.
+This is a starter kit for the magnetic switch (GATERON Low Profile Magnetic Jade Pro HE).
 
 ## how to buy
 [Yamamoto Works Ltd. Online Store](https://miyworks.base.shop/items/132541580)
