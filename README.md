@@ -2,6 +2,9 @@
 ![DSCF6205](https://github.com/user-attachments/assets/a65a308a-9f12-4e10-8900-0d9758c3dfd7)
 ![DSCF6211](https://github.com/user-attachments/assets/51fc938e-0c36-45c7-acbf-a3e1044842be)
 
+## How to buy
+[Yamamoto Works Ltd. Online Store](https://miyworks.base.shop/items/132541580)
+
 ## Specification
 - Power: 3.3 - 5V
 - Supported Keyswitch: [Gateron Low Profile Magnetic Jade Pro HE](https://www.gateron.com/products/gateron-full-pom-low-profile-magnetic-jade-pro-switch-set?VariantsId=10870)
